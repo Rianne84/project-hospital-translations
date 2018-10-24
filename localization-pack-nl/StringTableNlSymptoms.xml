@@ -147,63 +147,64 @@
             <GameDBLocalizedString>      <LocID>SYM_HAIR_LOSS_DESCRIPTION</LocID>                           <Text>Aanzienlijk haarverlies als gevolg van een specifieke ziekte.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HALLUCINATION</LocID>                                   <Text>Hallucinaties</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HALLUCINATION_DESCRIPTION</LocID>                       <Text>Levendige, substantiële visualisatie zonder echte stimulus.</Text>  </GameDBLocalizedString>
-<!--EDITED TILL THIS POINT-->			
-            <GameDBLocalizedString>      <LocID>SYM_HAND_PAIN</LocID>                                       <Text>Hand pain</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HAND_PAIN_DESCRIPTION</LocID>                           <Text>Unpleasant painful feeling in the hand.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HAND_WEAKNESS</LocID>                                   <Text>Hand weakness</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HAND_WEAKNESS_DESCRIPTION</LocID>                       <Text>Weakness of the hand grip, limited range of motion.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HARMFUL_ANTIBODIES</LocID>                              <Text>Harmful antibodies</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HARMFUL_ANTIBODIES_DESCRIPTION</LocID>                  <Text>Presence of harmful antibodies that attack various systems of patient's body.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEAD_TRAUMA</LocID>                                     <Text>Head trauma</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEAD_TRAUMA_DESCRIPTION</LocID>                         <Text>Any injury to the head.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEADACHE</LocID>                                        <Text>Headache</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEADACHE_DESCRIPTION</LocID>                            <Text>Symptomatic pain anywhere in the region of head or neck.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEARING_DIFFICULTIES</LocID>                            <Text>Hearing problems</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEARING_DIFFICULTIES_DESCRIPTION</LocID>                <Text>Difficulties with hearing perception like diminished hearing or ringing in the ears.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEART_FAILURE</LocID>                                   <Text>Heart failure</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEART_FAILURE_DESCRIPTION</LocID>                       <Text>The condition when the heart is unable to maintain sufficient blood flow to meet requirements of the body.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEAT_CRAMPS</LocID>                                     <Text>Heat cramps</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEAT_CRAMPS_DESCRIPTION</LocID>                         <Text>Cramps caused by very high body temperature.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEMATOCHEZIA</LocID>                                    <Text>Hematochezia</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEMATOCHEZIA_DESCRIPTION</LocID>                        <Text>Blood in stool.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEMATURIA</LocID>                                       <Text>Hematuria</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEMATURIA_DESCRIPTION</LocID>                           <Text>Blood in urine.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEMIPARESIS</LocID>                                     <Text>Hemiparesis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEMIPARESIS_DESCRIPTION</LocID>                         <Text>Weakness of one entire side of the body.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEMOGLOBIN_LOW</LocID>                                  <Text>Hemoglobin low</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEMOGLOBIN_LOW_DESCRIPTION</LocID>                      <Text>Low level of hemoglobin in bloodstream.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEMOPTYSIS</LocID>                                      <Text>Hemoptysis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEMOPTYSIS_DESCRIPTION</LocID>                          <Text>Coughing up blood.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEMORRHAGE</LocID>                                      <Text>Hemorrhage</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEMORRHAGE_DESCRIPTION</LocID>                          <Text>Bleeding.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HOARSENESS</LocID>                                      <Text>Hoarseness</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HOARSENESS_DESCRIPTION</LocID>                          <Text>The voice sounds breathy, raspy, or strained.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HUNGER</LocID>                                          <Text>Hunger</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HUNGER_DESCRIPTION</LocID>                              <Text>Feeling abnormally hungry.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HYPERACIDITY</LocID>                                    <Text>Hyperacidity</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HYPERACIDITY_DESCRIPTION</LocID>                        <Text>The condition when stomach secretes a lot of gastric acids.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HYPERLIPIDEMIA</LocID>                                  <Text>Hyperlipidemia</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HYPERLIPIDEMIA_DESCRIPTION</LocID>                      <Text>Increased level of lipids in the bloodstream.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HYPERPYREXIA</LocID>                                    <Text>Hyperpyrexia</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HYPERPYREXIA_DESCRIPTION</LocID>                        <Text>Very high body temperature over 39.5°C / 103.1°F.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HYPERTENSION</LocID>                                    <Text>Hypertension</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HYPERTENSION_DESCRIPTION</LocID>                        <Text>High blood pressure.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HYPOCALCAEMIA</LocID>                                   <Text>Hypocalcaemia</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HYPOCALCAEMIA_DESCRIPTION</LocID>                       <Text>Low calcium levels in the blood serum.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HYPOTENSION</LocID>                                     <Text>Hypotension</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HYPOTENSION_DESCRIPTION</LocID>                         <Text>Low blood pressure.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HYPOVOLEMIC_SHOCK</LocID>                               <Text>Hypovolemic shock</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HYPOVOLEMIC_SHOCK_DESCRIPTION</LocID>                   <Text>Life threatening condition caused by insufficient blood flow.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_CHEST_PAIN</LocID>                                      <Text>Chest pain</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_CHEST_PAIN_DESCRIPTION</LocID>                          <Text>Pain coming out from the chest area, could have a cardiac or noncardiac origin.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_CHILLS</LocID>                                          <Text>Chills</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_CHILLS_DESCRIPTION</LocID>                              <Text>Feeling of coldness during high fever.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_INABILITY_TO_MOVE_THE_JOINT</LocID>                     <Text>Joint immobility</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_INABILITY_TO_MOVE_THE_JOINT_DESCRIPTION</LocID>         <Text>Inability to move or a restricted motion range in a specific joint.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_INCREASED_ICP</LocID>                                   <Text>Increased ICP</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_INCREASED_ICP_DESCRIPTION</LocID>                       <Text>Increased intracranial pressure.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_INDIGESTION</LocID>                                     <Text>Indigestion</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_INDIGESTION_DESCRIPTION</LocID>                         <Text>Discomfort in the upper abdomen, also called dyspepsia or upset stomach.</Text>  </GameDBLocalizedString>
+		
+            <GameDBLocalizedString>      <LocID>SYM_HAND_PAIN</LocID>                                       <Text>Handpijn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HAND_PAIN_DESCRIPTION</LocID>                           <Text>Onaangenaam pijnlijk gevoel in de hand.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HAND_WEAKNESS</LocID>                                   <Text>Handzwakte</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HAND_WEAKNESS_DESCRIPTION</LocID>                       <Text>Verzwakte handgreep, beperkte bewegingsmogelijkheid.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HARMFUL_ANTIBODIES</LocID>                              <Text>Schadelijke antistoffen</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HARMFUL_ANTIBODIES_DESCRIPTION</LocID>                  <Text>Aanwezigheid van schadelijke antistoffen die verschillende systemen van het lichaam aanvallen.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEAD_TRAUMA</LocID>                                     <Text>Hoofdtrauma</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEAD_TRAUMA_DESCRIPTION</LocID>                         <Text>Letsel aan het hoofd.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEADACHE</LocID>                                        <Text>Hoofdpijn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEADACHE_DESCRIPTION</LocID>                            <Text>Symptomatische pijn rondom het hoofd of de nek.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEARING_DIFFICULTIES</LocID>                            <Text>Gehoorproblemen</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEARING_DIFFICULTIES_DESCRIPTION</LocID>                <Text>Problemen met het gehoord zoals verminderd gehoor of oorsuizen.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEART_FAILURE</LocID>                                   <Text>Hartfalen</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEART_FAILURE_DESCRIPTION</LocID>                       <Text>Aandoening waarbij het hart het lichaam onvoldoende van bloed kan voorzien.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEAT_CRAMPS</LocID>                                     <Text>Hittekrampen</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEAT_CRAMPS_DESCRIPTION</LocID>                         <Text>Krampen veroorzaakt door een zeer hoge lichaamstemperatuur.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMATOCHEZIA</LocID>                                    <Text>Hematochezie</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMATOCHEZIA_DESCRIPTION</LocID>                        <Text>Bloed in de ontlasting.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMATURIA</LocID>                                       <Text>Hematurie</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMATURIA_DESCRIPTION</LocID>                           <Text>Bloed in de urine.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMIPARESIS</LocID>                                     <Text>Hemiparese</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMIPARESIS_DESCRIPTION</LocID>                         <Text>Onvolledige verlamming van spieren aan één zijde van het lichaam.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMOGLOBIN_LOW</LocID>                                  <Text>Lage hemoglobine</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMOGLOBIN_LOW_DESCRIPTION</LocID>                      <Text>Lage hemoglobinewaardes in het bloed.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMOPTYSIS</LocID>                                      <Text>Hemoptoë</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMOPTYSIS_DESCRIPTION</LocID>                          <Text>Het ophoesten van bloed.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMORRHAGE</LocID>                                      <Text>Hemorragie</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMORRHAGE_DESCRIPTION</LocID>                          <Text>Bloeding.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HOARSENESS</LocID>                                      <Text>Heesheid</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HOARSENESS_DESCRIPTION</LocID>                          <Text>De stem klinkt hees, schor of gespannen.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HUNGER</LocID>                                          <Text>Honger</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HUNGER_DESCRIPTION</LocID>                              <Text>Een abnormaal hongergevoel.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPERACIDITY</LocID>                                    <Text>Hyperaciditeit</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPERACIDITY_DESCRIPTION</LocID>                        <Text>Aandoening waarbij de maag veel maagzuur afscheidt.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPERLIPIDEMIA</LocID>                                  <Text>Hyperlipidemie</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPERLIPIDEMIA_DESCRIPTION</LocID>                      <Text>Verhoogde lipidenwaardes in het bloed.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPERPYREXIA</LocID>                                    <Text>Hyperpyrexie</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPERPYREXIA_DESCRIPTION</LocID>                        <Text>Zeer hoge lichaamstemperatuur, boven 39.5°C.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPERTENSION</LocID>                                    <Text>Hypertensie</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPERTENSION_DESCRIPTION</LocID>                        <Text>Hoge bloeddruk.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPOCALCAEMIA</LocID>                                   <Text>Hypocalciëmie</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPOCALCAEMIA_DESCRIPTION</LocID>                       <Text>Lage calciumwaardes in het bloedserum.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPOTENSION</LocID>                                     <Text>Hypotensie</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPOTENSION_DESCRIPTION</LocID>                         <Text>Lage bloeddruk.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPOVOLEMIC_SHOCK</LocID>                               <Text>Hypovolemische shock</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPOVOLEMIC_SHOCK_DESCRIPTION</LocID>                   <Text>Levensbedreigende aandoening veroorzaakt door onvoldoende doorbloeding.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CHEST_PAIN</LocID>                                      <Text>Pijn op de borst</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CHEST_PAIN_DESCRIPTION</LocID>                          <Text>Pijn in het borstgebied, kan een cardiale of niet-cardiale oorzaak hebben.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CHILLS</LocID>                                          <Text>Rillingen</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CHILLS_DESCRIPTION</LocID>                              <Text>Koud gevoel tijdens hoge koorts.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INABILITY_TO_MOVE_THE_JOINT</LocID>                     <Text>Immobiliteit gewricht</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INABILITY_TO_MOVE_THE_JOINT_DESCRIPTION</LocID>         <Text>Onvermogen te bewegen of beperkte beweging in een specifiek gewricht.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INCREASED_ICP</LocID>                                   <Text>Verhoogde ICP</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INCREASED_ICP_DESCRIPTION</LocID>                       <Text>Verhoogde intracraniële druk.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INDIGESTION</LocID>                                     <Text>Indigestie</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INDIGESTION_DESCRIPTION</LocID>                         <Text>Ongemak in de bovenbuik, ook wel dyspepsie genoemd.</Text>  </GameDBLocalizedString>
+		<!--EDITED TILL THIS POINT-->	
             <GameDBLocalizedString>      <LocID>SYM_INFECTED_WOUND</LocID>                                  <Text>Infected wound</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_INFECTED_WOUND_DESCRIPTION</LocID>                      <Text>Pathogenic organisms present in a wound.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_INFLAMMED_SINUSES</LocID>                               <Text>Inflamed sinuses</Text>  </GameDBLocalizedString>
